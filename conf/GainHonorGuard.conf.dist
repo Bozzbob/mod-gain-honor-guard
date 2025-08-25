@@ -16,7 +16,7 @@ GainHonorGuard.Enable = 1
 #   Announce the module when the player logs in?
 #
 
-GainHonorGuard.Announce = 1
+GainHonorGuard.Announce = 0
 
 #
 #   GainHonorOnGuardKill
